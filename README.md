@@ -1,3 +1,3 @@
 
-## this is steve smith biography
+## this is the webpage about steve jobs.
 
